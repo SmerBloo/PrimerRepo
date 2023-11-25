@@ -16,6 +16,7 @@ public class NewMain {
         Empleado empleado1 = new Empleado(nombre, salarioMensual, horasTrabajadasPorSemana);
 
         System.out.println(" ");
+        System.out.println("terrible");
         
         empleado1.calcularSalarioAnual();
         empleado1.calcularSalarioSemanal();
